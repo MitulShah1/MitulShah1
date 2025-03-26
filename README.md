@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MitulShah1/MitulShah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Engineer | Golang | PHP | Microservices | DevOps
 
-Here are some ideas to get you started:
+- Passionate about building scalable and efficient backend systems.
+- Experienced in Golang, PHP, MySQL, Redis, and API development.
+- Love working with cloud, CI/CD, and infrastructure as code.
+- Passionate about designing and optimizing scalable, high-performance backend systems.
+- Experienced in Golang, PHP, MySQL, Redis, Kafka, Docker, Kubernetes, and API development.
+- Skilled in Microservices Architecture, Infrastructure as Code (IaC), and CI/CD pipelines.
+- Love working with Cloud platforms (AWS, GCP, Azure) and automating deployments.
+- Strong advocate for clean code, test-driven development (TDD), and observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always experimenting with new technologies to improve performance and efficiency.
+
+📌 Open to collaborations on open-source projects and backend challenges!
+
+![MitulShah1's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitulShah1&show_icons=true&count_private=true&line_height=40)
