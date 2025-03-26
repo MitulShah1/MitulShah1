@@ -15,4 +15,4 @@
 
 📌 Open to collaborations on open-source projects and backend challenges!
 
-![MitulShah1's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitulShah1&show_icons=true&count_private=true&line_height=40)
+<!-- ![MitulShah1's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitulShah1&show_icons=true&count_private=true&line_height=40) -->
