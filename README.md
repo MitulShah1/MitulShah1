@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=MitulShah1&abbreviated=true)
 
 ## 🔥 Backend Ninja | Shaping the Future with Clean Code
 
