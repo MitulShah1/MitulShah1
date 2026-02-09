@@ -1,4 +1,4 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=MitulShah1&abbreviated=true)
+<!-- # Hi there 👋 ![](https://komarev.com/ghpvc/?username=MitulShah1&abbreviated=true)
 
 ## 🔥 Backend Ninja | Shaping the Future with Clean Code
 
@@ -25,4 +25,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-📌 Open to collaborations on open-source projects and backend challenges!
+📌 Open to collaborations on open-source projects and backend challenges! -->
